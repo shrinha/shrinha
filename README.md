@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Testing Profile Readmes
+Too lazy to update shiz here
 
 <!--
 **shrinha/shrinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
